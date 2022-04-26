@@ -1,0 +1,33 @@
+body {
+    background-position: center;
+    background-size: cover;
+    background-clip: content-box;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0px;
+    font-size: 50px;
+    font-family: fantasy;
+}
+
+span {
+    font-size: 20px;
+    color: black;
+}
+
+#head_note {
+    font-size: 22px;
+    color: red !important;
+    font-weight: 100;
+}
+
+#status, #number_of_objects {
+    font-size: 20px;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px gray;
+    border-radius: 10px;
+    margin-top: 10px;
+}
